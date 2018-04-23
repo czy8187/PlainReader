@@ -141,6 +141,8 @@
 		C198189D1B09868300F7A9F2 /* PRDatabase.m in Sources */ = {isa = PBXBuildFile; fileRef = C19818981B09868300F7A9F2 /* PRDatabase.m */; };
 		C198189E1B09868300F7A9F2 /* PRLongSQLGenerator.m in Sources */ = {isa = PBXBuildFile; fileRef = C198189A1B09868300F7A9F2 /* PRLongSQLGenerator.m */; };
 		C198189F1B09868300F7A9F2 /* PRStarredCache.m in Sources */ = {isa = PBXBuildFile; fileRef = C198189C1B09868300F7A9F2 /* PRStarredCache.m */; };
+		DEC07993208DC2FC0086C9D5 /* 拿着 Api 去玩耍.webarchive in Resources */ = {isa = PBXBuildFile; fileRef = DEC07992208DC2FC0086C9D5 /* 拿着 Api 去玩耍.webarchive */; };
+		DEC07995208DCD920086C9D5 /* 知乎日报 API 分析 · izzyleung:ZhihuDailyPurify Wiki.webarchive in Resources */ = {isa = PBXBuildFile; fileRef = DEC07994208DCD920086C9D5 /* 知乎日报 API 分析 · izzyleung:ZhihuDailyPurify Wiki.webarchive */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -351,6 +353,8 @@
 		C198189A1B09868300F7A9F2 /* PRLongSQLGenerator.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PRLongSQLGenerator.m; sourceTree = "<group>"; };
 		C198189B1B09868300F7A9F2 /* PRStarredCache.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PRStarredCache.h; sourceTree = "<group>"; };
 		C198189C1B09868300F7A9F2 /* PRStarredCache.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PRStarredCache.m; sourceTree = "<group>"; };
+		DEC07992208DC2FC0086C9D5 /* 拿着 Api 去玩耍.webarchive */ = {isa = PBXFileReference; lastKnownFileType = file.bplist; path = "拿着 Api 去玩耍.webarchive"; sourceTree = "<group>"; };
+		DEC07994208DCD920086C9D5 /* 知乎日报 API 分析 · izzyleung:ZhihuDailyPurify Wiki.webarchive */ = {isa = PBXFileReference; lastKnownFileType = file.bplist; path = "知乎日报 API 分析 · izzyleung:ZhihuDailyPurify Wiki.webarchive"; sourceTree = "<group>"; };
 		ED3F36AD9FE5BE64CD2D3248 /* Pods-PlainReader.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PlainReader.debug.xcconfig"; path = "Pods/Target Support Files/Pods-PlainReader/Pods-PlainReader.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -520,6 +524,8 @@
 		A0A0767A18DA8D6B00B1FEB9 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				DEC07992208DC2FC0086C9D5 /* 拿着 Api 去玩耍.webarchive */,
+				DEC07994208DCD920086C9D5 /* 知乎日报 API 分析 · izzyleung:ZhihuDailyPurify Wiki.webarchive */,
 				BCE6967D1AFE83520021BC54 /* PlainReader-Bridging-Header.h */,
 				BC3FBC141A3726A500068E3A /* HTML */,
 				BCC6AE7519FCBF5400A4FE6E /* Database */,
@@ -861,6 +867,7 @@
 				BCF85C5E1B06347300E734AE /* videohandler.js in Resources */,
 				41E33668192AF2BE00FC9CBB /* PRCommentPostViewController.xib in Resources */,
 				BC3FBC1B1A3726A500068E3A /* article.html in Resources */,
+				DEC07995208DCD920086C9D5 /* 知乎日报 API 分析 · izzyleung:ZhihuDailyPurify Wiki.webarchive in Resources */,
 				BCF85C651B0658A700E734AE /* imghandler.js in Resources */,
 				A0A79F1919EC2A0300CF40CE /* 05.gif in Resources */,
 				BCF85C981B08483400E734AE /* PRArticleCell.xib in Resources */,
@@ -880,6 +887,7 @@
 				A0A79F1D19EC2A0300CF40CE /* 07.gif in Resources */,
 				BC3FBC1C1A3726A500068E3A /* common.css in Resources */,
 				A0A0767E18DA8D6B00B1FEB9 /* InfoPlist.strings in Resources */,
+				DEC07993208DC2FC0086C9D5 /* 拿着 Api 去玩耍.webarchive in Resources */,
 				A0A79F1819EC2A0300CF40CE /* 04@2x.gif in Resources */,
 				A0A79F2219EC2A0300CF40CE /* 09@2x.gif in Resources */,
 				BCC6AE7819FCBF5400A4FE6E /* plainreader.db in Resources */,
